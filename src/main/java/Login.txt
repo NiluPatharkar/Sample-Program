@@ -1,6 +1,7 @@
 Feature: annotation 
 #This is how background can be used to eliminate duplicate steps 
 #This is the second line Test
+#Comment from GIT
 
 Background: 
    User navigates to Facebook Given 
