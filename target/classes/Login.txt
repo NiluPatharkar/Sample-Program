@@ -1,10 +1,12 @@
 Feature: annotation 
 #This is how background can be used to eliminate duplicate steps 
+#This is the second line Test
 
 Background: 
    User navigates to Facebook Given 
    I am on Facebook login page 
 
+#Just testing
 #Scenario with AND 
 Scenario: 
    When I enter username as "TOM"
