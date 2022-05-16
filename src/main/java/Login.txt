@@ -1,11 +1,11 @@
 Feature: annotation 
 #This is how background can be used to eliminate duplicate steps 
 #This is the second line Test
-#Comment from GIT
+#Comment from GIT Romit
 
 Background: 
    User navigates to Facebook Given 
-   I am on Facebook login page 
+   I am on Amazon login page 
 
 #Just testing
 #Scenario with AND 
