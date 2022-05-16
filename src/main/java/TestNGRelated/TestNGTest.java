@@ -30,6 +30,7 @@ public class TestNGTest {
 	{
 		WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "E:\\Practice\\chromedriver.exe");
+
 		driver = new ChromeDriver();
 
 		  //Navigating through a particular website
@@ -51,6 +52,11 @@ public class TestNGTest {
 		WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "E:\\Practice\\chromedriver.exe");
 		driver = new ChromeDriver();
+
+		  //Just checking for addition
+		  //Initializing the browser driver
+		  driver = new ChromeDriver();
+
 
 		  //Navigating through a particular website
 		  driver.get("https://www.google.com");
