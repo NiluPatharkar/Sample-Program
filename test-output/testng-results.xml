@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22343" started-at="2022-05-14T18:08:32 IST" finished-at="2022-05-14T18:08:54 IST">
+  <suite name="Suite" duration-ms="25745" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:37 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22343" started-at="2022-05-14T18:08:32 IST" finished-at="2022-05-14T18:08:54 IST">
+    <test name="Test" duration-ms="25745" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:37 IST">
       <class name="TestNGRelated.TestNGTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGRelated.TestNGTest@76f2b07d]" name="setup" is-config="true" duration-ms="16764" started-at="2022-05-14T18:08:32 IST" finished-at="2022-05-14T18:08:49 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="setup" is-config="true" duration-ms="10" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="actualTest()[pri:0, instance:TestNGRelated.TestNGTest@76f2b07d]" name="actualTest" duration-ms="1262" started-at="2022-05-14T18:08:49 IST" finished-at="2022-05-14T18:08:50 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="setup" is-config="true" duration-ms="10" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:11 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- actualTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGRelated.TestNGTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="4235" started-at="2022-05-14T18:08:50 IST" finished-at="2022-05-14T18:08:54 IST">
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="setup" is-config="true" duration-ms="10" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="actualTest1()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="actualTest1" duration-ms="25553" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualTest1 -->
+        <test-method status="PASS" signature="actualTest2()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="actualTest2" duration-ms="25631" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualTest2 -->
+        <test-method status="PASS" signature="actualTest3()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="actualTest3" duration-ms="25585" started-at="2022-05-16T06:58:11 IST" finished-at="2022-05-16T06:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="tearDown" is-config="true" duration-ms="5" started-at="2022-05-16T06:58:36 IST" finished-at="2022-05-16T06:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-05-16T06:58:36 IST" finished-at="2022-05-16T06:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGRelated.TestNGTest@1f57539]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-05-16T06:58:37 IST" finished-at="2022-05-16T06:58:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
