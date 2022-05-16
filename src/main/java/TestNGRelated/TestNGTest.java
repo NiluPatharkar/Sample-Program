@@ -19,7 +19,8 @@ public class TestNGTest {
 	{
 		
 		System.out.println("Starting Setup Method");
-		  //Initializing the browser driver
+		 //why merge happend 
+		//Initializing the browser driver
 		 
 		 
 	}
@@ -33,6 +34,7 @@ public class TestNGTest {
 
 		  //Navigating through a particular website
 		  driver.get("https://www.google.com");
+	          //my line number is 36
 		  driver.manage().deleteAllCookies();
 		  driver.manage().window().maximize();
 		  driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
